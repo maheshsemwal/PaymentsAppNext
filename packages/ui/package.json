@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
+"./side-bar-section": "./src/side-bar-section.tsx",
 "./transaction-card2": "./src/transaction-card2.tsx",
     "./transaction-card": "./src/transaction-card.tsx",
     "./select": "./src/select.tsx",
